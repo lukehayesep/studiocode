@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "D:\\Python 3\\python.exe",
+    "editor.tabSize": 4,
+    "editor.autoIndent": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.mypyEnabled": false,
+    "python.linting.enabled": true,
+    "editor.fontFamily": "Fira Code",
+"editor.fontLigatures": true,
+"editor.fontWeight": "800",
+"editor.lineHeight": 25,
+}
